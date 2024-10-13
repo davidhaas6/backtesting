@@ -2,7 +2,7 @@
 
 A simple and intuitive Python library for backtesting algorithmic trading strategies.
 
-NOTE: ** Most of this project is AI-generated **
+NOTE: **Most of this project is AI-generated**
 
 ## Table of Contents
 
